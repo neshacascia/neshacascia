@@ -3,7 +3,7 @@ Software Developer
 
 I am a Toronto-based Software Developer specializing in building and designing full-stack web applications.
 
-🌱 I’m currently learning MERN stack
+* 🌱 I’m currently learning MERN stack
 * ✉️  You can contact me at [nesha.mervin@gmail.com](mailto:nesha.mervin@gmail.com)
 
 ### Technology Stack
