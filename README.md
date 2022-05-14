@@ -24,19 +24,17 @@ I am a Toronto-based Software Developer specializing in building and designing f
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
-### Network with Me
-
-<a href="https://www.twitter.com/neshacascia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 ### My GitHub Stats
 
-
+<p align="center">
 <a href="http://www.github.com/neshacascia"><img src="https://github-readme-streak-stats.herokuapp.com/?user=neshacascia&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!-- ### Hi there 👋 -->
 
 <!--
+### Network With Me
+<p align="center">
+<a href="https://www.twitter.com/neshacascia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 **neshacascia/neshacascia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
