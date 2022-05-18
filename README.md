@@ -1,6 +1,7 @@
-<div align="center">
-  <h1>Software Developer</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=32&color=8EA9A8&center=true&vCenter=true&width=1000&lines=Software+Developer;Designer;Front-End+Engineer;Creator;Lifelong+Learner;Freelancer;Anime+Lover)](https://git.io/typing-svg)
 
+<hr>
+<div align="center">
 I am a Toronto-based Software Developer specializing in building and designing full-stack web applications.
 
 🌱 I’m currently learning MERN stack <br>
