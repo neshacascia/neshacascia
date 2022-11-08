@@ -2,9 +2,9 @@
 
 <hr>
 <div align="center">
-I am a Toronto-based Software Developer specializing in building and designing full-stack web applications.
+I am a Toronto-based Front End Developer specializing in building and designing full-stack web applications.
 
-🌱 I’m currently learning MERN stack <br>
+🌱 I’m currently learning more about React <br>
 ✉️  You can contact me at [nesha.mervin@gmail.com](mailto:neshacascia@gmail.com)
 </div>
 
