@@ -1,12 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=32&color=8EA9A8&center=true&vCenter=true&width=1000&lines=Software+Developer;Designer;Front-End+Engineer;Creator;Lifelong+Learner;Freelancer;Anime+Lover)](https://git.io/typing-svg)
 
 <hr>
-<div align="center">
-I am a Toronto-based Front End Developer specializing in building and designing full-stack web applications.
 
-🌱 I’m currently learning more about React <br>
-✉️  You can contact me at [nesha.mervin@gmail.com](mailto:neshacascia@gmail.com)
-</div>
+- 👋 Hi there, I’m Nesha! A front end developer passionate about bridging the gap between design and development
+- 🌱 I’m currently learning more about React
+- 👀 I am interested in full-time opportunities
+- 📫 You can reach me at [neshacascia@gmail.com](mailto:neshacascia@gmail.com)
 
 <br>
 
