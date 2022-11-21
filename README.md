@@ -13,8 +13,6 @@ Hi there, I’m Nesha! A front end developer passionate about building scalable 
 <br>
 📫 You can reach me at [neshacascia@gmail.com](mailto:neshacascia@gmail.com)
 
-<br>
-
 <h3>Connect with me:</h3>
 <p>
 <a href="https://twitter.com/neshacascia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neshacascia" height="30" width="40" /></a>
