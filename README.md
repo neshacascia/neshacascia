@@ -7,7 +7,7 @@ Hi there, I’m Nesha! A front end developer passionate about building scalable 
 <br>
 🌱 I’m currently learning more about React
 <br>
-👩🏾‍💻 Most of my projects are available at [neshacascia.com](neshacascia.com)
+👩🏾‍💻 Most of my projects are available at [neshacascia.com](https://www.neshacascia.com)
 <br>
 👀 I am interested in full-time opportunities
 <br>
