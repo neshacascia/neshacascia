@@ -5,13 +5,13 @@
 
 Hi there, I’m Nesha! A front end developer passionate about building scalable web applications that are accessible
 <br>
-🌱 I’m currently learning more about React
+🌱 I’m currently learning more about NextJS
 <br>
 👩🏾‍💻 Most of my projects are available at [neshacascia.com](https://www.neshacascia.com)
 <br>
 👀 I am interested in full-time opportunities
 <br>
-📫 You can reach me at [neshacascia@gmail.com](mailto:neshacascia@gmail.com)
+📫 You can reach me at [nesha.mervin@gmail.com](mailto:nesha.mervin@gmail.com)
 
 <h3>Connect with me:</h3>
 <p>
