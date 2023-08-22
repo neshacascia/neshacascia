@@ -21,8 +21,16 @@ Hi there, I’m Nesha! A full-stack developer passionate about building scalable
   
 <h3>Technology Stack</h3>
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</div>
+![JavaScript](https://img.shields.io/badge/javascript-272b33?logo=javascript&logoColor=ead41c&style=for-the-badge)
+![React](https://img.shields.io/badge/react-272b33?logo=react&logoColor=61dbfb&style=for-the-badge)
+![NextJS](https://img.shields.io/badge/Next-272b33?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-272b33?logo=node.js&logoColor=6bbf47&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/express-272b33?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/mongodb-272b33?logo=mongodb&logoColor=4aae3e&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-272b33?style=for-the-badge&logo=tailwind-css&logoColor=07b0ce)
+![Git](https://img.shields.io/badge/git-272b33?style=for-the-badge&logo=git&logoColor=f05033) 
+![Netlify](https://img.shields.io/badge/netlify-272b33?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Vercel](https://img.shields.io/badge/vercel-272b33?style=for-the-badge&logo=vercel&logoColor=white)
 
 <div align="center">
 <h3>My GitHub Stats</h3>
