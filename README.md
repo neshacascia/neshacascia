@@ -15,8 +15,18 @@ Hi there, I’m Nesha! A full-stack developer passionate about building scalable
 
 <h3>Connect with me:</h3>
 <p>
-<a href="https://twitter.com/neshacascia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neshacascia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/neshamervin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neshamervin" height="30" width="40" /></a>
+  <a target="_blank" href="https://www.neshacascia.com">
+  <img src="https://img.shields.io/badge/Portfolio-272b33?logo=circle&logoColor=white&style=for-the-badge">
+</a>
+  <a target="_blank" href="https://twitter.com/neshacascia">
+  <img src="https://img.shields.io/badge/twitter-272b33?logo=twitter&logoColor=1d9bf0&style=for-the-badge">
+</a>
+<a target="_blank" href="https://linkedin.com/in/neshamervin">
+  <img src="https://img.shields.io/badge/linkedin-272b33?logo=linkedin&logoColor=2d87c9&style=for-the-badge">
+</a>
+<a target="_blank" href="https://wellfound.com/u/nesha-mervin">
+  <img src="https://img.shields.io/badge/angellist-272b33?logo=angellist&logoColor=white&style=for-the-badge">
+</a>
 </p>
   
 <h3>Technology Stack</h3>
@@ -27,6 +37,7 @@ Hi there, I’m Nesha! A full-stack developer passionate about building scalable
 ![Node.js](https://img.shields.io/badge/node.js-272b33?logo=node.js&logoColor=6bbf47&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/express-272b33?logo=express&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/mongodb-272b33?logo=mongodb&logoColor=4aae3e&style=for-the-badge)
+![Postgres](https://img.shields.io/badge/PostgreSQL-272b33?style=for-the-badge&logo=postgresql&logoColor=31648c)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-272b33?style=for-the-badge&logo=tailwind-css&logoColor=07b0ce)
 ![Git](https://img.shields.io/badge/git-272b33?style=for-the-badge&logo=git&logoColor=f05033) 
 ![Netlify](https://img.shields.io/badge/netlify-272b33?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
