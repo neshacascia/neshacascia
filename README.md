@@ -5,7 +5,7 @@
 
 Hi there, I’m Nesha! A full stack developer passionate about building scalable web applications that are intuitive and accessible
 <br>
-🌱 I’m currently learning more about build AI products👾
+🌱 I’m currently learning more about building AI products👾
 <br>
 👩🏾‍💻 Most of my projects are available at [neshacascia.com](https://www.neshacascia.com)
 <br>
