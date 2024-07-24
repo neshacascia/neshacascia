@@ -3,7 +3,7 @@
 <hr>
 <div align="center">
 
-Hi there, I’m Nesha! A full stack developer passionate about building scalable web applications that are intuitive and accessible. I am eager to learn and excited about adopting new technologies
+Hi there, I’m Nesha! A full stack developer passionate about building scalable web applications that are intuitive and accessible. I enjoy challenging myself and am excited about keeping up with latest technologies and trends
 <br>
 🛠 I'm currently building a cutting-edge scheduling app designed specifically for security guard companies
 <br>
