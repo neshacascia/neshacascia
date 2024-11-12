@@ -5,13 +5,11 @@
 
 Hi there, I’m Nesha! A full stack developer passionate about building scalable web applications that are intuitive and accessible. I enjoy challenging myself and am excited about keeping up with latest technologies and trends
 <br>
-🛠 I'm currently building a cutting-edge scheduling app designed specifically for security guard companies
 <br>
 🌱 I’m currently learning more about building AI products👾
 <br>
 👩🏾‍💻 Most of my projects are available at [neshacascia.com](https://www.neshacascia.com)
 <br>
-👀 I am interested in full-time opportunities
 <br>
 📫 You can reach me at [nesha.mervin@gmail.com](mailto:nesha.mervin@gmail.com)
 
@@ -20,14 +18,8 @@ Hi there, I’m Nesha! A full stack developer passionate about building scalable
   <a target="_blank" href="https://www.neshacascia.com">
   <img src="https://img.shields.io/badge/Portfolio-272b33?logo=circle&logoColor=white&style=for-the-badge">
 </a>
-  <a target="_blank" href="https://twitter.com/neshacascia">
-  <img src="https://img.shields.io/badge/twitter-272b33?logo=twitter&logoColor=1d9bf0&style=for-the-badge">
-</a>
 <a target="_blank" href="https://linkedin.com/in/neshamervin">
   <img src="https://img.shields.io/badge/linkedin-272b33?logo=linkedin&logoColor=2d87c9&style=for-the-badge">
-</a>
-<a target="_blank" href="https://wellfound.com/u/nesha-mervin">
-  <img src="https://img.shields.io/badge/angellist-272b33?logo=angellist&logoColor=white&style=for-the-badge">
 </a>
 </p>
   
@@ -69,4 +61,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<h3>Connect with me:</h3>
+<p>
+  <a target="_blank" href="https://www.neshacascia.com">
+  <img src="https://img.shields.io/badge/Portfolio-272b33?logo=circle&logoColor=white&style=for-the-badge">
+</a>
+  <a target="_blank" href="https://twitter.com/neshacascia">
+  <img src="https://img.shields.io/badge/twitter-272b33?logo=twitter&logoColor=1d9bf0&style=for-the-badge">
+</a>
+<a target="_blank" href="https://linkedin.com/in/neshamervin">
+  <img src="https://img.shields.io/badge/linkedin-272b33?logo=linkedin&logoColor=2d87c9&style=for-the-badge">
+</a>
+<a target="_blank" href="https://wellfound.com/u/nesha-mervin">
+  <img src="https://img.shields.io/badge/angellist-272b33?logo=angellist&logoColor=white&style=for-the-badge">
+</a>
+</p>
 -->
+
